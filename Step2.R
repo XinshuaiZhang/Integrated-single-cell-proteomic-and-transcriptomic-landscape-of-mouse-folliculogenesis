@@ -4391,8 +4391,6 @@ data_tmp <- FetchData(scdata_tran,vars = c(gene_select,'sample'))
 histone_data<-read.csv('./histone_gene_use.csv',sep=",",header = T,check.names = F) %>% 
   pull(names(.)[2])
 
-
-
 gene_protein_coding <-
   read.csv('./gene_protein_coding.csv', row.names = 1)
 head(gene_protein_coding)
