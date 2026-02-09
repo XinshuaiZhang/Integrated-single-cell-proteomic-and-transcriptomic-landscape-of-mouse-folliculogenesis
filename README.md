@@ -1,0 +1,2 @@
+# Integrated-single-cell-proteomic-and-transcriptomic-landscape-of-mouse-folliculogenesis
+Scripts perform end-to-end single-cell proteome+transcriptome analysis: load/preprocess matrices, normalize/cluster, UMAP/visualize, differential and enrichment, metabolic/mitochondrial features, ARACNe/VIPER TF activity, ligand–receptor   CCI, trajectory/phylovelo exports to reproduce main/supplementary figures.
